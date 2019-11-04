@@ -20,7 +20,7 @@ html body.garupa-body nav.garupa-nav {
 }
 html body.garupa-body nav.garupa-nav .garupa-nav_title {
   position: relative;
-  display: inline;
+  left: 16px;
 }
 
 @media (prefers-color-scheme: light) {
