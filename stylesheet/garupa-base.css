@@ -19,7 +19,6 @@ html body.garupa-body nav.garupa-nav {
 }
 html body.garupa-body nav.garupa-nav .garupa-nav_title {
   display: flex;
-  height: 64px;
 }
 
 @media (prefers-color-scheme: light) {
