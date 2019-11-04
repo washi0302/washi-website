@@ -8,7 +8,6 @@ html body.garupa-body {
   /* None */
 }
 html body.garupa-body nav.garupa-nav {
-  display: flex;
   width: 100vw;
   height: 64px;
   padding-left: 16px;
@@ -19,8 +18,7 @@ html body.garupa-body nav.garupa-nav {
   align-items: center;
 }
 html body.garupa-body nav.garupa-nav .garupa-nav_title {
-  position: relative;
-  left: 16px;
+  display: flex;
 }
 
 @media (prefers-color-scheme: light) {
