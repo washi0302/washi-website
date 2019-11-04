@@ -1,0 +1,8 @@
+html * {
+  padding: auto;
+  margin: auto;
+}
+html body {
+  background-color: #E5004F;
+  color: #FFFFFF;
+}
