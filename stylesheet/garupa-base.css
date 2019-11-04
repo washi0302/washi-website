@@ -2,7 +2,12 @@ html * {
   padding: auto;
   margin: auto;
 }
-html body {
+html body.garupa-body {
+  /* None */
+}
+html body.garupa-body nav.garupa-nav {
+  width: 100vw;
+  height: 64px;
   background-color: #E5004F;
   color: #FFFFFF;
 }
