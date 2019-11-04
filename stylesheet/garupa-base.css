@@ -15,10 +15,11 @@ html body.garupa-body nav.garupa-nav {
   color: #FFFFFF;
   text-align: left;
   justify-content: flex-start;
-  align-items: stretch;
+  align-items: center;
 }
 html body.garupa-body nav.garupa-nav .garupa-nav_title {
   display: flex;
+  height: 100%;
 }
 
 @media (prefers-color-scheme: light) {
