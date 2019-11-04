@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 html * {
   padding: auto;
   margin: auto;
@@ -13,11 +15,14 @@ html body.garupa-body nav.garupa-nav {
 }
 
 @media (prefers-color-scheme: light) {
-  background-color: #FFFFFF;
-  color: #000000;
+  html body.garupa-body {
+    background-color: #FFFFFF;
+    color: #000000;
+  }
 }
-
 @media (prefers-color-scheme: dark) {
-  background-color: #000000;
-  color: #FFFFFF;
+  html body.garupa-body {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
 }
