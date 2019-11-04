@@ -8,10 +8,13 @@ html body.garupa-body {
   /* None */
 }
 html body.garupa-body nav.garupa-nav {
+  display: flex;
   width: 100vw;
   height: 64px;
   background-color: #E5004F;
   color: #FFFFFF;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (prefers-color-scheme: light) {
