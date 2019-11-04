@@ -18,13 +18,13 @@ html body.garupa-body nav.garupa-nav {
 }
 
 @media (prefers-color-scheme: light) {
-  html body.garupa-body {
+  html .enable-darkmode {
     background-color: #FFFFFF;
     color: #000000;
   }
 }
 @media (prefers-color-scheme: dark) {
-  html body.garupa-body {
+  html .enable-darkmode {
     background-color: #000000;
     color: #FFFFFF;
   }
