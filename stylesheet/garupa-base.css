@@ -11,7 +11,6 @@ html body.garupa-body nav.garupa-nav {
   display: flex;
   width: 100vw;
   height: 64px;
-  padding-left: 16px;
   background-color: #E5004F;
   color: #FFFFFF;
   text-align: left;
