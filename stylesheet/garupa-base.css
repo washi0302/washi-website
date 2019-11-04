@@ -11,3 +11,13 @@ html body.garupa-body nav.garupa-nav {
   background-color: #E5004F;
   color: #FFFFFF;
 }
+
+@media (prefers-color-scheme: light) {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  background-color: #000000;
+  color: #FFFFFF;
+}
