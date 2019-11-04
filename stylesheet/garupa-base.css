@@ -15,7 +15,7 @@ html body.garupa-body nav.garupa-nav {
   color: #FFFFFF;
   text-align: left;
   justify-content: flex-start;
-  align-items: center;
+  align-items: stretch;
 }
 html body.garupa-body nav.garupa-nav .garupa-nav_title {
   display: flex;
