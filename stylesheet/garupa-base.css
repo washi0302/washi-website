@@ -18,6 +18,10 @@ html body.garupa-body nav.garupa-nav {
   justify-content: flex-start;
   align-items: center;
 }
+html body.garupa-body nav.garupa-nav .garupa-nav_title {
+  position: relative;
+  display: flex;
+}
 
 @media (prefers-color-scheme: light) {
   html .enable-darkmode {
